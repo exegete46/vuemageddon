@@ -1,4 +1,4 @@
-# vuemagedon
+# vuemageddon
 
 > A Vue.js project
 
